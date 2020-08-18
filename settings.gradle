@@ -1,0 +1,3 @@
+rootProject.name='netrunner'
+include ':app'
+include ':core'
